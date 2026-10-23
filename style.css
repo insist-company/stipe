@@ -2,3 +2,5 @@
 
 /* Icona ufficiale e adattamento della navigazione su schermi stretti. */
 .brand-icon{display:block;width:32px;height:32px;border-radius:8px;flex-shrink:0}.hero-icon{display:block;width:112px;height:112px;border-radius:24px;margin-bottom:28px}.site-header{flex-wrap:wrap;padding-block:20px}nav{flex-wrap:wrap}.legal a{overflow-wrap:anywhere}@media(max-width:520px){.brand-icon{width:28px;height:28px;border-radius:7px}.hero-icon{width:88px;height:88px;border-radius:20px}}
+
+.publisher{margin-top:20px;display:flex;flex-direction:column;align-items:flex-start;gap:8px}.publisher p{margin:0}.publisher-logo{display:block;background:#fff;border-radius:6px;overflow:hidden}.publisher-logo img{display:block;width:132px;height:34px;object-fit:cover;object-position:center}.publisher-link{font-size:13px}
