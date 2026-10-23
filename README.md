@@ -40,4 +40,4 @@ Documentazione GitHub: https://docs.github.com/en/pages/getting-started-with-git
 
 Copia del sito pubblicata in `insist-company/stipe`, con storico originale conservato. Il sito precedente `https://d7hshvk744-ai.github.io/stipe/` resta operativo. I riferimenti in App Store Connect non sono ancora stati aggiornati. Il sito istituzionale INSIST e il codice iOS sono separati e non modificati.
 
-L’icona ufficiale non è ancora integrata: il simbolo attuale è una lettera stilizzata. Restano da completare l’acquisizione dell’asset originale e il collaudo mobile, zoom e tema chiaro prima del cambio dei riferimenti esterni.
+L’icona ufficiale fornita dal proprietario è conservata senza modifiche in `assets/stipe-icon.png` e utilizzata in intestazione, home, favicon e icona Apple. Restano da completare il collaudo mobile, zoom e tema chiaro prima del cambio dei riferimenti esterni.
